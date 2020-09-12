@@ -1,0 +1,8 @@
+用cookie实现单点登录
+演示步骤
+www.codeshop.com:9010/view/index        9010 首页
+vip.codeshop.com:9011/view/index   vip页面
+cart.codeshop.com:9012/view/index  购物车页面
+login.codeshop.com:9000  登陆页面
+采用的域名劫持来访问演示。
+host文件位置      C:\Windows\System32\drivers\etc
